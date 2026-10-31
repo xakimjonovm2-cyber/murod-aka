@@ -4,7 +4,7 @@
 }
 
 nav {
-    background-color: #163A24;
+    background-color: black;
     color: white;
     display: flex;
     justify-content: space-between;
@@ -22,7 +22,7 @@ nav div {
 nav button {
     width: 141px;
     height: 52px;
-    background-color: #198C36;
+    background-color: aqua;
     color: white;
     border-radius: 160px;
 }
